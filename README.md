@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Eduardo 👋
 
-<!--
-**IEduardoNunes/IEduardoNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**,
+buscando estágio em **desenvolvimento de software (back-end)**.
 
-Here are some ideas to get you started:
+Atuo como **Analista de Suporte Pleno** em ambiente hospitalar e estou direcionando
+essa experiência em TI para a programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+**Linguagens:** Python · Java · JavaScript · TypeScript · C
+**Banco de dados:** MySQL · SQL Server
+**Ferramentas:** Git · GitHub · PySide6 · TailwindCSS
+
+## Projetos em destaque
+- **Sistema de Controle de Cadastros** — app desktop em Python + PySide6 + MySQL
+- **Central de Chamados** — gestão de chamados de suporte em Python
+- **BDnexus** — sistema em C integrado ao SQL Server
+
+## Contato
+🔗 [Portfólio](https://portfolio-eduardonunes.netlify.app) ·
+💼 [LinkedIn](https://www.linkedin.com/in/eduardo-nunes-dos-s-silva-18a321230)
